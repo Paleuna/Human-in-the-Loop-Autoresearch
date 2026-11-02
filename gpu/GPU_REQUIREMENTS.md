@@ -9,5 +9,3 @@ Read `GENERAL_REQUIREMENTS.md` before GPU or Slurm work. These points add practi
 - **Preserve evidence.** Capture the actual command and code version, scheduler ID when relevant, terminal state, logs, metrics, and artifact locations. Check the scheduler and logs before declaring a job complete. Failed and cancelled attempts remain part of the record and report.
 
 If infrastructure repeatedly fails, return to the human with the cause and options. If the scientific measurement is uninformative, revisit the research question instead of tuning indefinitely. The agent chooses the project's ordinary tools for recording and presenting this information; the important requirement is that the researcher can inspect the authorization and reconstruct what happened.
-
-`gpu/private/` is ignored by this repository's Git rules. A manually created archive can still include private files, so review archives before sharing them.
