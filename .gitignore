@@ -1,0 +1,19 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials and private cluster material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+gpu/private/*
+!gpu/private/.gitkeep
+
+# Optional local research artifacts
+/data/
+/outputs/
+/checkpoints/
