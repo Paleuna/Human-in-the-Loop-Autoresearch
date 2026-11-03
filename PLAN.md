@@ -1,5 +1,7 @@
 # Research Plan — [Project]
 
+Note: this file is read-only as template for generating plan file
+
 **Status:** Proposed · **Owner/reviewer:** [Human] · **Version/date:** [ ]
 
 > **Purpose:** A short scientific argument for why these experiments are worth doing. Write for a researcher, not for a workflow engine. The plan should make the research *decidable* without prescribing every implementation detail.

@@ -21,7 +21,7 @@
 
 The human may provide the research brief in conversation or in a project file. Understand that context before proposing a plan; do not require a fixed input format.
 
-Before substantive implementation, produce a concise `PLAN.md` that a researcher can judge without reading code. It must connect the central question to testable hypotheses, experiments, informative outcomes, and plausible techniques. Explain the **intuition** of each method, not every implementation detail.
+Before substantive implementation, produce a concise plan (use `PLAN.md` as template) that a researcher can judge without reading code. It must connect the central question to testable hypotheses, experiments, informative outcomes, and plausible techniques. Explain the **intuition** of each method, not every implementation detail.
 
 **Stop for explicit human approval of the plan.** Do not treat an unreviewed draft as authorization. If evidence later requires a material change in research question, experimental logic, or resource scope, propose the change and obtain approval. Routine implementation decisions remain yours.
 
@@ -54,7 +54,7 @@ Use the project's normal tools and communication style to seek approval. The pro
 
 ## 8. Definition of done
 
-The work is complete when the approved questions have been answered **as far as the evidence permits**, all planned experiments are accounted for, reproducible artifacts exist, and `REPORT.md` gives the human a sharp picture of **what was found, what was not found, what remains unresolved, and whether to pursue, rethink, or stop**.
+The work is complete when the approved questions have been answered **as far as the evidence permits**, all planned experiments are accounted for, reproducible artifacts exist, and report (use `REPORT.md` as template) gives the human a sharp picture of **what was found, what was not found, what remains unresolved, and whether to pursue, rethink, or stop**.
 
 A clean negative result can be success. A large pile of runs that cannot distinguish explanations is not.
 

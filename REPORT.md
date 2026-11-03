@@ -1,5 +1,7 @@
 # Research Report — [Project]
 
+Note: this file is read-only as template for generating report file
+
 **Plan:** [Link/version] · **Run records:** [Links/paths as applicable] · **Date:** [ ]
 
 > **Purpose:** Return the evidence to the human, not a polished success story. Lead with the answer. Follow the approved questions. Make everything traceable, including disappointing and failed work.
